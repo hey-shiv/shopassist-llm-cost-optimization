@@ -3,6 +3,8 @@
 > [!IMPORTANT]
 > **Please read my notes for the complete solutions with explanations:** the billing formula, how the simulator works, and a step-by-step walkthrough of the Q1 and Q2 fixes and why each one saves points → **[Open the Goodnotes notes](https://web.goodnotes.com/s/ItCgUzAvy4LIi6EiQ3eOFN)** (the page can take up to a minute to load, please wait)
 >
+> **PDF copy of the same notes:** [notes/ShopAssist.pdf](notes/ShopAssist.pdf) (large single page, download it and zoom in if it does not render in the browser)
+>
 > **Results:** Q1 ~8,810 → 1,738 points per ticket, Q2 ~73,153 → 1,504 (details [below](#results-my-solution)).
 
 **ShopAssist** is a Tier-1 support agent for an e-commerce company. For each ticket it:
