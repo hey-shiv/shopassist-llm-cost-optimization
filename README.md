@@ -51,3 +51,5 @@ Measured with `python question1/run.py` and `python question2/run.py` (points pe
 **Q2** — Every LLM call costs at least ~600 points of output, so four calls cannot fit under 2,500. The four node names are kept, but only `compose` calls the LLM: triage (search terms) and retrieve (keyword ranking, top 3 articles) are plain code, and audit validates the reply in code. T-1001: 73,491 → 1,626 points; T-1003 (escalation path): 1,464 points.
 
 Caching is not used: the prompts are far below the 1,024-token minimum. Retrieval is keyword-based and was only tested on the five articles in this repo.
+
+**Notes:** my handwritten walkthrough of the billing formula, the simulator and the two fixes is here: [Goodnotes notes](https://web.goodnotes.com/s/ItCgUzAvy4LIi6EiQ3eOFN)
