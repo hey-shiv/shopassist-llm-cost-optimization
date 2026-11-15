@@ -5,6 +5,8 @@
 >
 > **Handwritten write-up (PDF copy of the same notes):** [handwritten-write-up.pdf](handwritten-write-up.pdf) (large single page, download it and zoom in if it does not render in the browser)
 >
+> **Presentation (6 slides):** [presentation.pdf](presentation.pdf), the problem, both fixes and the measured results at a glance.
+>
 > **Results:** Q1 ~8,810 → 1,738 points per ticket, Q2 ~73,153 → 1,504 (details [below](#results-my-solution)).
 
 ![ShopAssist pipeline: Triage and Retrieve and Audit run as plain code, only Compose calls the LLM. Cost for ticket T-1001 drops from 73,491 to 1,626 points.](docs/architecture.png)
