@@ -1,7 +1,7 @@
 # ShopAssist — support copilot cost lab
 
 > [!IMPORTANT]
-> **📒 My notes:** a handwritten walkthrough of the billing formula, the simulator and the two fixes → **[Open the Goodnotes notes](https://web.goodnotes.com/s/ItCgUzAvy4LIi6EiQ3eOFN)**
+> **My notes:** a handwritten walkthrough of the billing formula, the simulator and the two fixes → **[Open the Goodnotes notes](https://web.goodnotes.com/s/ItCgUzAvy4LIi6EiQ3eOFN)**
 >
 > **Results:** Q1 ~8,810 → 1,738 points per ticket, Q2 ~73,153 → 1,504 (details [below](#results-my-solution)).
 
