@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > **Please read my notes for the complete solutions with explanations:** the billing formula, how the simulator works, and a step-by-step walkthrough of the Q1 and Q2 fixes and why each one saves points → **[Open the Goodnotes notes](https://web.goodnotes.com/s/ItCgUzAvy4LIi6EiQ3eOFN)** (the page can take up to a minute to load, please wait)
 >
-> **Write-up (PDF copy of the same notes):** [write-up.pdf](write-up.pdf) (large single page, download it and zoom in if it does not render in the browser)
+> **Handwritten write-up (PDF copy of the same notes):** [handwritten-write-up.pdf](handwritten-write-up.pdf) (large single page, download it and zoom in if it does not render in the browser)
 >
 > **Results:** Q1 ~8,810 → 1,738 points per ticket, Q2 ~73,153 → 1,504 (details [below](#results-my-solution)).
 
