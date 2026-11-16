@@ -9,7 +9,7 @@
 >
 > **Results:** Q1 ~8,810 → 1,738 points per ticket, Q2 ~73,153 → 1,504 (details [below](#results-my-solution)).
 
-![ShopAssist pipeline: Triage and Retrieve and Audit run as plain code, only Compose calls the LLM. Cost for ticket T-1001 drops from 73,491 to 1,626 points.](docs/architecture.png)
+![ShopAssist architecture: ticket, order and help-center data flow through Triage, Retrieve, Compose and Audit in question2/agent.py. Compose is the only LLM call and is metered by shared/billing.py.](docs/architecture.png)
 
 **ShopAssist** is a Tier-1 support agent for an e-commerce company. For each ticket it:
 
